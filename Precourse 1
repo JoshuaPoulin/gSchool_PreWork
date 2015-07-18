@@ -5,30 +5,22 @@
 	</head>
 	<body>
 		<h1>Titles</h1>
-		<ol>
-			<li>[img placeholder]Hackers (1995)</li>
-			<li>[img placeholder]2000 AD (2000) aka "Hackers"</li>
-			<li>[img placeholder]Hackers (2001) (TV Episode)-Frontline(1983)(TV Series)</li>
-			<li>[img placeholder]Hacker's Game (2015) aka "The Hackers"</li>
-		</ol>
+			<p>[img placeholder]Hackers (1995)</p>
+			<p>[img placeholder]2000 AD (2000) aka "Hackers"</p>
+			<p>[img placeholder]Hackers (2001) (TV Episode)-Frontline(1983)(TV Series)</p>
+			<p>[img placeholder]Hacker's Game (2015) aka "The Hackers"</p>
 		<h2>Names</h2>
-		<ol>
-			<li>[img placeholder]Amy Acker (Actress, Angel(1999))</li>
-			<li>[img placeholder]Drew Van Acker (Actor, Pretty Little Liars (2010))</li>
-			<li>[img placeholder]Buddy Hackett (Actory, The Little Mermaid(1989))</li>
-			<li>[img placeholder]Emily Wickersham (Actress, I Am Number Four(2011))</li>
-		</ol>
+			<p>[img placeholder]Amy Acker (Actress, Angel(1999))</p>
+			<p>[img placeholder]Drew Van Acker (Actor, Pretty Little Liars (2010))</p>
+			<p>[img placeholder]Buddy Hackett (Actory, The Little Mermaid(1989))</p>
+			<p>[img placeholder]Emily Wickersham (Actress, I Am Number Four(2011))</p>
 		<h3>Keywords</h3>
-		<ol>
-			<li>hacker (180 titles)</li>
-		</ol>
+			<p>hacker (180 titles)</p>
 		<h4>Companies</h4>
-		<ol>
-			<li>Douglas, Goram, Rothacker &Wilhelm (DGRW)</li>
-			<li>Crackerjack Management</li>
-			<li>Bleeker Street Media</li>
-			<li>Bleeker Street Entertainment</li>
-		</ol>
+			<p>Douglas, Goram, Rothacker & Wilhelm (DGRW)</p>
+			<p>Crackerjack Management</p>
+			<p>Bleeker Street Media</p>
+			<p>Bleeker Street Entertainment</p>
 		<h5>Category Search</h5>
 		<ul>
 			<li>All</li>
@@ -52,3 +44,5 @@
 			<li>Advanced Search</li>
 			<li>Advanced Title Search</li>
 			<li>Advanced Name Search</li>
+	</body>
+</html>
