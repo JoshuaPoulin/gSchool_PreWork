@@ -1,19 +1,48 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link type="text/css" rel="stylesheet" href="main.css"/>
 		<title>Results for "Hackers"</title>
 	</head>
 	<body>
 		<h1>Titles</h1>
-			<p><img src="gSchool/PreWork/Images/hackers.jpg" alt="hackers" height="32" width="44"><a href="README.md." target="_blank">Hackers (1995)</a></p>
-			<p><img src="gSchool/PreWork/Images/2000.jpg" alt="hackers" height="32" width="44"><a href="README.md." target="_blank">2000 AD (2000) aka "Hackers"</a></p>
-			<p><img src="gSchool/PreWork/Images/frontline.jpg" alt="hackers" height="32" width="44"><a href="README.md." target="_blank">Hackers (2001) (TV Episode)-Frontline(1983)(TV Series)</a></p>
-			<p><img src="gSchool/PreWork/Images/hackersgame.jpg" alt="hackers" height="32" width="44"><a href="README.md." target="_blank">Hacker's Game (2015) aka "The Hackers"</a></p>
+			<table>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/hackers.jpg" alt="hackers" height="32" width="44"></td>
+					<td class=".red"><a href="README.md." target="_blank">Hackers (1995)</a></td>
+				</tr>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/2000.jpg" alt="hackers" height="32" width="44"></td>
+					<td class=".blue"><a href="README.md." target="_blank">2000 AD (2000) aka "Hackers"</a></td>
+				</tr>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/frontline.jpg" alt="hackers" height="32" width="44"></td>
+					<td class=".red"><a href="README.md." target="_blank">Hackers (2001) (TV Episode)-Frontline(1983)(TV Series)</a></td>
+				</tr>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/hackersgame.jpg" alt="hackers" height="32" width="44"></td>
+					<td class=".blue"><a href="README.md." target="_blank">Hacker's Game (2015) aka "The Hackers"</a></td>
+				</tr>
+			</table>
 		<h2>Names</h2>
-			<p><img src="gSchool/PreWork/Images/amyacker.jpg" alt="hackers" height="32" width="44">Amy Acker (Actress, Angel(1999))</p>
-			<p><img src="gSchool/PreWork/Images/drewvan.jpg" alt="hackers" height="32" width="44">Drew Van Acker (Actor, Pretty Little Liars (2010))</p>
-			<p><img src="gSchool/PreWork/Images/buddyhackett.jpg" alt="hackers" height="32" width="44">Buddy Hackett (Actory, The Little Mermaid(1989))</p>
-			<p><img src="gSchool/PreWork/Images/emilywilkersham.jpg" alt="hackers" height="32" width="44">Emily Wickersham (Actress, I Am Number Four(2011))</p>
+			<table>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/amyacker.jpg" alt="hackers" height="32" width="44"></td>
+					<td>Amy Acker (Actress, Angel(1999))</td>
+				</tr>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/drewvan.jpg" alt="hackers" height="32" width="44"></td>
+					<td>Drew Van Acker (Actor, Pretty Little Liars (2010))</td>
+				</tr>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/buddyhackett.jpg" alt="hackers" height="32" width="44"></td>
+					<td>Buddy Hackett (Actory, The Little Mermaid(1989))</td>
+				</tr>
+				<tr>
+					<td><img src="gSchool/PreWork/Images/emilywilkersham.jpg" alt="hackers" height="32" width="44"></td>
+					<td>Emily Wickersham (Actress, I Am Number Four(2011))</td>
+				</tr>
+			</table>
 		<h3>Keywords</h3>
 			<p>hacker (180 titles)</p>
 		<h4>Companies</h4>
